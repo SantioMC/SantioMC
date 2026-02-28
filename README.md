@@ -6,7 +6,7 @@
 </h1>
 <br />
 
-🌱 Welcome to my GitHub profile! Here you'll find some of my projects. I'm passionate about coding and exploring new technologies. I work on a lot of open source software like [Glass](https://github.com/GlassDashboard), [MinehutUtils](https://github.com/SantioMC/MinehutUtils), and a few others. I'm also a volunteer moderator at [@Minehut](https://github.com/Minehut/)
+🌱 Welcome to my GitHub profile! Here you'll find some of my projects. I'm passionate about coding and exploring new technologies. I work on a lot of open source software like [Glass](https://github.com/GlassDashboard), [MinehutUtils](https://github.com/SantioMC/MinehutUtils), and a few others. I currently work at [@Minehut](https://github.com/Minehut/)
 
 ## My Skills
 Check out a collection of different software, libraries, and languages I've used in the past.
